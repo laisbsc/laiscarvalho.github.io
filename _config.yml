@@ -47,11 +47,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networking and AI some of my other interests include:
+  Alongside my curiosity about networking and AI some of my other interests include:
    - Aerial Silks
    - Yoga
-   - Mindful meditation
-   - Wine.
+   - Mindful meditation and
+   - Wine!
 
 # Footer
 footer_show_references: true
