@@ -1,8 +1,31 @@
 - layout: top-middle
   name: GUI-based web scraping application
-  #link: github.com/laisbsc
-  github: sproogen/resume-theme
+  link: github.com/laisbsc
+  github: https://github.com/laisbsc/webScrappingDaft
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Group project that aims to build a GUI-based application to allow regular users to scrape web content regardless of their programming knowledge.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    This appication aims to make web scraping very easy for non-tech savy users. Using <mark>Scrapy</mark>, <mark>Python</mark> and <mark>MongoDB</mark>, the 
+    user esoecifies the content to be fetched and the application crawls the webpages (based on the XPath) to find the information required and outputs it to a MongoDB database.
+
+- layout: top-middle
+  name: Chatbot with NLP sentiment analysis that 'listens' to people's problems
+  link: github.com/laisbsc
+  github: https://github.com/laisbsc/
+  quote: >
+    ICare is a chatbot that helps people overcome loneliness. A Facebook messaging platform that uses a sentiment-analysis model to be a good ‘listener’
+     and offer support on those harsh moments in life or when your friends are too busy.
+  description: | # this will include new lines to allow paragraphs
+    The chatbot originally used Facebook Messenger’s built-in NLP to extract entities from people’s ‘emotive messages’ and classify them as either sad or happy.
+    This was not suitable for our model so we decided to  use Flask to build an application that will use a modelling tool for sentiment discovery and emotion
+     classification to analyse the user’s input sentences and suggest an emotion such as anger, fear, joy, etc. that would output an appropriate response to the user and act as a 'friend'.
+
+- layout: top-middle
+  name: Java app connecting to a MySQL database using DAO and (creational) Design Patterns
+  link: github.com/laisbsc
+  github: https://github.com/laisbsc/webScrappingDaft
+  quote: >
+    Java application that aims to connect to a relational database using the Data Access Pattern and 2 other creational patterns.
+  description: | # this will include new lines to allow paragraphs
+    This assignment requires the development of a Java-based application to connect to a MySQL database using the best practices on Design Patterns. The app should output all records from a given database, retrieve records by name, by code(unique ID) and add new records into the database.
+    A CLI client program is also implemented to test the application.
