@@ -27,5 +27,5 @@
   quote: >
     Java application that connects to a relational database using the Data Access Pattern and 2 other creational patterns.
   description: | # this will include new lines to allow paragraphs
-    This <mark>Java</mark>-based application connects to a <mark>MySQL<mark> database using the best practices on Design Patterns. The app should output all records from a given database, retrieve records by name, by code(unique ID) and add new records into the database.
+    This <mark>Java</mark>-based application connects to a <mark>MySQL</mark> database using the best practices on Design Patterns. The app should output all records from a given database, retrieve records by name, by code(unique ID) and add new records into the database.
     A CLI client program is also implemented to test the application.
