@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
    This position also allowed me to contribute with social media content for the company, publishing mainly on Google Contribute and Instagram® Stories. 
 
-  layout: left
+- layout: left
   company: Freelancer
   #link: https://www.elywinebar.ie/
   job_title: Virtual assistant
@@ -30,7 +30,7 @@
    In addition, a postgrad needed support with SPSS for data assessment of human-derived cancer samples for drug-resistance at the cancer genetics department at RCSI.
    Both projects allowed me to work on my techincal writing skills and customer service habilities.
    
-  layout: right
+- layout: right
   company: Trinity College Dublin
   #link: https://www.elywinebar.ie/
   job_title: Research assistant
@@ -42,7 +42,7 @@
    located in historic buildings throughout Ireland. The data analysis utilized Microsoft Office and SPSS
    Statistics. AutoCAD software was used for the design of the building’s floor plans. 
    
-  layout: left
+- layout: left
   company: Trinity College Dublin
   #link: https://www.elywinebar.ie/
   job_title: Intern
