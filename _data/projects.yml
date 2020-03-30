@@ -1,7 +1,7 @@
 - layout: top-middle
   name: GUI-based web scraping application
   #ink: github.com/laisbsc
-  github: https://github.com/laisbsc/webScrappingDaft
+  github: laisbsc/webScrappingDaft
   quote: >
     Group project that aims to build a GUI-based application to allow regular users to scrape web content regardless of their programming knowledge.
   description: | # this will include new lines to allow paragraphs
@@ -11,7 +11,7 @@
 - layout: top-middle
   name: Chatbot with NLP sentiment analysis that 'listens' to people's problems
   #link: github.com/laisbsc
-  github: https://github.com/laisbsc/
+  github: /laisbsc/
   quote: >
     ICare is a chatbot that helps people overcome loneliness. A Facebook messaging platform that uses a sentiment-analysis model to be a good ‘listener’
      and offer support on those harsh moments in life or when your friends are too busy.
@@ -23,7 +23,7 @@
 - layout: top-middle
   name: Java app connecting to a MySQL database using DAO and (creational) Design Patterns
   #link: github.com/laisbsc
-  github: https://github.com/laisbsc/JavaApp_DesignPatterns
+  github: laisbsc/JavaApp_DesignPatterns
   quote: >
     Java application that connects to a relational database using the Data Access Pattern and 2 other creational patterns.
   description: | # this will include new lines to allow paragraphs
