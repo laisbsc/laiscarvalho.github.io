@@ -4,7 +4,7 @@
   job_title: Remote Conference Operator
   dates: February 2020 - Present
   quote: >
-   Planning, organizing and outsourcing the necessary tools to bring presential conferences / events to virtual platforms.
+   Planning, organising and outsourcing the necessary tools to bring conferences/events into the virtual format.
   description: | # this will include new lines to allow paragraphs
     I am currently responsible for the virtual version of Python Ireland monthly MeetUps, Pyjamas - a 24h around-the-globe online conference due in December 2020 and a weekly Python news Twitch channel called Mid Meet Py in collaboration with [CheukTing Ho](https://cheuk.dev/).
 
@@ -24,11 +24,10 @@
   job_title: Virtual assistant
   dates: January 2017 - April 2017
   quote: >
-   I worked through this period as a virtual assistant, offering support to graduates and post graduates with their final thesis.
+   I worked through this period as a virtual assistant, offering support to graduates and postgraduates with their final thesis.
   description: | # this will include new lines to allow paragraphs
-   I had the opportunity to work with a UCD Masters graduate and offer help on om Microsoft Office package and some GIS features, as well as thesis formatting.
-   In addition, a postgrad needed support with SPSS for data assessment of human-derived cancer samples for drug-resistance at the cancer genetics department at RCSI.
-   Both projects allowed me to work on my techincal writing skills and customer service habilities.
+   I had the opportunity to work with a UCD Masters graduate and offer help on om Microsoft Office package and some GIS features, as well as thesis formatting. Besides, a postgrad needed support with SPSS for data assessment of human-derived cancer samples for drug-resistance at the cancer genetics department at RCSI.
+   Both projects allowed me to work on my technical writing skills and customer service abilities.
    
 - layout: right
   company: Trinity College Dublin
@@ -38,9 +37,7 @@
   quote: >
    Dept. Env. Eng. Trinity College Dublin, Dr Christopher Shiell
   description: | # this will include new lines to allow paragraphs
-   Responsible for the collection and graphical representation of data obtained by temperature and humidity loggers 
-   located in historic buildings throughout Ireland. The data analysis utilized Microsoft Office and SPSS
-   Statistics. AutoCAD software was used for the design of the building’s floor plans. 
+      Responsible for the collection and graphical representation of data obtained by temperature and humidity loggers located in historic buildings throughout Ireland. The data analysis utilised Microsoft Office and SPSS Statistics. The building’s floor plans were designed using AutoCAD software.
    
 - layout: left
   company: Trinity College Dublin
@@ -50,6 +47,5 @@
   quote: >
    Dept. Civil Engineering Trinity College Dublin, Dr Ahmed Alawis
   description: | # this will include new lines to allow paragraphs
-   In control of conducting experiments to characterise the physical properties of a variety of 
-   recycled aggregate samples, along with their compliance with current aggregates used in construction. 
+      In control of conducting experiments to characterise the physical properties of a variety of recycled aggregate samples, along with their compliance with current aggregates used in construction. 
    Graphical representation of these physical properties and the completion of a thesis on the work were carried out.
