@@ -27,12 +27,11 @@ dev_username: laisbsc
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lais and I’m a 3rd year IT student in CCT Colege Dublin 
-  that fell in love with Python after struggling with Wolfran for 2 years 
-  trying to understand advanced calculus. I used to design water dams for least-privileged
-  communities in Brazil, before moving to Ireland. With 6 years of experience with customer service,
-  I am currently training as a Remote Conference Operator with projects throughout the tech community
-  such as Pyjamas and EuroPython. Eagered to become a DevRel in the near future.
+  Hi, I’m a 3rd year IT student in CCT Colege Dublin that fell in love with Python after struggling 
+  with Wolfran for 2 years trying to understand advanced calculus. I used to design water dams for least-privileged
+	communities in Brazil, before moving to Ireland. With 6 years of experience with customer service,
+	I am currently training as a Remote Conference Operator with projects throughout the tech community, 
+  such as Pyjamas and EuroPython. Eager to become a DevRel shortly.
 
   I am most skilled in: <mark>Customer Service</mark> and <mark>Python</mark>
 
@@ -48,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my curiosity about networking and AI some of my other interests include:
+  Alongside my curiosity about networking and AI, some of my other interests include:
    - Aerial Silks
    - Yoga
    - Mindful meditation and
