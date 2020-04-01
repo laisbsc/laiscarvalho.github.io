@@ -5,8 +5,8 @@
   quote: >
     Group project that aims to build a GUI-based application to allow regular users to scrape web content regardless of their programming knowledge.
   description: | # this will include new lines to allow paragraphs
-    This appication aims to make web scraping very easy for non-tech savy users. Using <mark>Scrapy</mark>, <mark>Python</mark> and <mark>MongoDB</mark>, the 
-    user esoecifies the content to be fetched and the application crawls the webpages (based on the XPath) to find the information required and outputs it to a MongoDB database.
+    This application aims to make web scraping very easy for non-tech savvy users. Using <mark>Scrapy</mark>, <mark>Python</mark> and <mark>MongoDB</mark>, the 
+    user specifies the content to be fetched, and the application crawls the webpages (based on the XPath) to find the information required and outputs it to a MongoDB database.
 
 - layout: top-middle
   name: Chatbot with NLP sentiment analysis that 'listens' to people's problems
