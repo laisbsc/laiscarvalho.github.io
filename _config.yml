@@ -14,11 +14,11 @@ website: http://laiscarvalho.com/
 twitter_username: lais_bsc
 github_username:  laisbsc
 # dribbble_username: jekyll
-# facebook_username: lais-barbara-carvalho
+ facebook_username: lais-barbara-carvalho
 # flickr_username: jekyll
 instagram_username: laiscarvalho
 linkedin_username: lais-barbara-carvalho
-dev_username: laisbsc
+# dev_username: laisbsc
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -37,6 +37,9 @@ I am most skilled in: <mark>Customer Service</mark> and <mark>Python</mark>
 
 # Projects Section
 # projects_title: Projects
+
+# Portfolio Section
+# portfolio_title: Portfolio
 
 # Experience Section
 # experience_title: Experience
