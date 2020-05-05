@@ -6,7 +6,7 @@
     Enrolled as an advanced-entry student, this course gave me a solid grasp of
     Java and its best practices as well as a robust network security foundation.
   description: | # this will include new lines to allow paragraphs
-    During my time at CCT, I had the chance to collaborate immensely with the students and faculty towards a more participant class experience. The group project module, present on 3rd year, also allowed me to work on soft skills such as teamwork and self-control under tight deadlines. I thoroughly enjoy my time in college and continue to earn a lot from it.
+    During my time at CCT, I had the chance to collaborate with the students and faculty towards a more participant class experience. The group project module, present on 3rd year, also allowed me to work on soft skills such as teamwork and self-management under tight deadlines. I thoroughly enjoy my time in college and continue to earn a lot from it.
 
 - layout: right
   name: Dorset College Dublin, Ireland
@@ -15,20 +15,20 @@
   quote: >
     Studied in this institution for 2 years, before moving to CCT.
   description: | # this will include new lines to allow paragraphs
-    The most significant modules I studied here were networking using Packet Tracer and WireShark,
-    and Operating Systems with basics of Linux, Windows and shell scripting.
+    The most significant modules I studied here were Networking using Packet Tracer and WireShark,
+    and Operating Systems covering the basics of Linux, Windows and shell scripting.
 
 - layout: left
   name: Trinity College Dublin, Ireland
   dates: 2015 - 2016
   qualification: BSc General Engineering
   quote: >
-    Admitted to the institution under a Visitant Student Scholarship for one year.
+    Admitted to the institution on a Visitant Student Scholarship for one year.
   description: | # this will include new lines to allow paragraphs
     The year studying in TCD allowed me to use MatLab to simulate thermodynamics problems as well as plot graphs
-    to analyse mathematical equations. This opportunity also alowed me to engage on a self-driving buggy project 
-    using an Arduino board and sensors such as XBee and Ultrasonic to direct it. The mini-car had its circuit 
-    board manufactured from scratch, and it was programmed using C# programming language.
+    to analyse mathematical equations. This opportunity also allowed me to engage on a self-driving buggy project 
+    using an Arduino board and sensors such as XBee and Ultrasonic to direct it. The mini-car had its circuit-
+    board manufactured from scratch, and it was configured using C# programming language.
     
     On my free time, I was also a member of The Phil and The Hist debating societies as well as the Dublin University Photography
     Association (DUPA).
