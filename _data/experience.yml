@@ -39,7 +39,7 @@
   description: | # this will include new lines to allow paragraphs
     Responsible for the collection and graphical representation of data obtained by temperature and humidity loggers located in historic buildings throughout Ireland. The data analysis utilised Microsoft Office and SPSS Statistics. The building’s floor plans were designed using AutoCAD software.
    
-- layout: right
+- layout: left
   company: Trinity College Dublin
   #link: https://www.elywinebar.ie/
   job_title: Intern
